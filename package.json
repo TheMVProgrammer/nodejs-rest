@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMVProgrammer/nodejs-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMVProgrammer/nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/TheMVProgrammer/nodejs-rest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
